@@ -35,7 +35,7 @@
   <div class="ct-credits">
     <p><?php esc_html_e('Copyright', 'spark-news'); ?> <a href="<?php echo esc_url(home_url('/')); ?>" rel="home"><?php bloginfo('name'); ?></a><?php esc_html_e('. All rights reserved.', 'spark-news'); ?>
       <span class="footer-info-right">
-        <?php echo esc_html__(' | Designed by', 'spark-news') ?> <a href="<?php echo esc_url('https://umeshghartimagar.com.np/', 'spark-news'); ?>"><?php echo esc_html__('AIM Tech', 'spark-news') ?></a>
+        <?php echo esc_html__(' | Designed by', 'spark-news') ?> <a href="<?php echo esc_url('https://umeshghartimagar.com.np/', 'spark-news'); ?>"><?php echo esc_html__('Aim Tech', 'spark-news') ?></a>
       </span>
     </p>
   </div>
