@@ -1,0 +1,11 @@
+.header-sidebar .ct-sbs-post-excerpt .content-right .ct-categories {
+  display: block;
+}
+
+.footer .ct-footer-widgets .ct-header {
+  border-bottom: 4px solid #ffd42a;
+}
+
+#customize-theme-controls #accordion-section-spark_news {
+  display: none;
+}
