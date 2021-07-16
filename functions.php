@@ -3,7 +3,7 @@
 add_action('wp_enqueue_scripts', 'add_child_stylesheet', 11);
 function add_child_stylesheet()
 {
-    wp_enqueue_style('bulbul-style', get_stylesheet_directory_uri() . '/assets/css/bulbul.css', false, '0.4', 'all');
+    wp_enqueue_style('bulbul-style', get_stylesheet_directory_uri() . '/assets/css/bulbul.css', false, '0.5', 'all');
 }
 
 
